@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Jupyter Notebook generated files
+.ipynb_checkpoints/
+
 # IDE files
 .idea/
 .vscode/
