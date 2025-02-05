@@ -30,3 +30,13 @@ uv run --with jupyter jupyter lab
 ```
 
 The Jupyter Lab server will start on [http://localhost:8888](http://localhost:8888).
+
+## Development
+
+### Formatting
+
+To format the code, run the following command:
+
+```bash
+uvx ruff format
+```
