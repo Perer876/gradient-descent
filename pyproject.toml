@@ -1,0 +1,7 @@
+[project]
+name = "gradient-descent"
+version = "0.1.0"
+description = "HW 1 - Gradient descent"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
