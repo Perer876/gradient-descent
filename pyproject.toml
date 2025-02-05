@@ -4,7 +4,10 @@ version = "0.1.0"
 description = "HW 1 - Gradient descent"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+]
 
 [dependency-groups]
 dev = [
